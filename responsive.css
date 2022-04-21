@@ -16,6 +16,11 @@
   
   /* Untuk Smartphone */
   @media all and (max-width: 670px) {
+      
+    .top-wrapper{
+      padding : 60px 0 140px 0;
+    }
+      
     .food, .dessert, .drink {
       width: 100%;
     }
